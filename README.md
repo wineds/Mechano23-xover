@@ -4,4 +4,4 @@ How to ordr from JLCPCB :
 
 https://jlcpcb.com/help/article/How-do-I-place-an-order
 
-Use the Add Gerber files button to upload RAR file.
+NB : Use the "Add Gerber files" button to upload RAR file.
