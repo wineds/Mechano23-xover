@@ -10,6 +10,6 @@ BOM is as per component links in the first post of the ASR review here : https:/
 
 6.3mm PCB lugs are as per H2094.pdf (5mm pitch, 1.2mm pin)  Closest mouser alternative I could find is : https://au.mouser.com/ProductDetail/TE-Connectivity-AMP/725964-2?qs=qCxwlXJ4fnwpPO7DZFi5oQ%3D%3D  Pins are 1.3mm in this case but should push into PCB holes with some gentle persuasion.  
 
-For inductors I used "Liquid Nails" and cable ties to secure them to the PCB.  For all other parts a neutral cure silcone was used to ensure parts don't rattle and buzz on PCB.
+For inductors I used "Liquid Nails" and cable ties to secure them to the PCB.  For all other parts a neutral cure silcone was used to ensure parts don't rattle and buzz on PCB.  Cable tie holes are 4mm.
 
 
