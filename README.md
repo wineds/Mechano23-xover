@@ -16,3 +16,6 @@ PCB mounting holes are 4.3mm.
 
 ![1726199938259](https://github.com/user-attachments/assets/5efef5f5-de21-4308-86d9-eea11aac85b1)
 ![Screenshot 2024-09-09 180137](https://github.com/user-attachments/assets/9a18d771-63cb-42e4-88f2-b5b6e177dec3)
+![1728687452290](https://github.com/user-attachments/assets/bc877fb6-2828-4b0c-9dbd-7b6e20ade87e)
+
+
