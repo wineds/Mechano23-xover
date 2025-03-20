@@ -14,7 +14,7 @@ Alternatively see simple BOM here : mechano23_xover_schematic.xls
 
 Closest mouser alternative I could find is : https://au.mouser.com/ProductDetail/TE-Connectivity-AMP/725964-2?qs=qCxwlXJ4fnwpPO7DZFi5oQ%3D%3D  Pins are 1.3mm in this case but should push into PCB holes with some gentle persuasion.  Could also try these : https://www.newark.com/multicomp-pro/pc250-836lt/terminal-tab-6-35mm-solder-uninsulated/dp/05R7934 (cheaper but also 1.3mm pin))
 
-For inductors I used "Liquid Nails" and cable ties to secure them to the PCB.  For all other parts a neutral cure silcone was used to ensure parts don't rattle and buzz on PCB.  Cable tie holes are 4mm.
+For inductors I used "Liquid Nails" and cable ties ("knot" on component side) to secure them to the PCB.  For all other parts a neutral cure silcone was used to ensure parts don't rattle and buzz on PCB.  Cable tie holes are 4mm.
 
 PCB mounting holes are 4.3mm.  
 
