@@ -18,7 +18,7 @@ For inductors I used "Liquid Nails" and cable ties ("knot" on component side) to
 
 PCB mounting holes are 4.3mm.  
 
-**IMPORTANT - The inductor leads are coated with enamel.  You will need to scrape/sand the ends of the leads to remove sufficent enamel before soldering.  A hobby knife and/or sandpaper can be used for this purpose.
+**IMPORTANT - The inductor leads are coated with enamel.  You will need to scrape/sand the ends of the leads to remove the enamel before soldering.  A hobby knife and/or sandpaper can be used for this purpose.
 
 ![1726199938259](https://github.com/user-attachments/assets/5efef5f5-de21-4308-86d9-eea11aac85b1)
 ![Screenshot 2024-09-09 180137](https://github.com/user-attachments/assets/9a18d771-63cb-42e4-88f2-b5b6e177dec3)
