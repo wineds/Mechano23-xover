@@ -11,3 +11,5 @@ PCB lugs are the same as crossover PCB.
 If you use the dayton 0.13mH inductor remove the cable tie furthest from the termination point and carefully start removing outer windings until only 4 remain.  This will result in a 0.11mH inductor.  viz:
 
 ![1764998290667](https://github.com/user-attachments/assets/7eb8d6a4-4d93-4b34-8964-d6345eb91d33)
+
+![1764998290651](https://github.com/user-attachments/assets/f7032b0b-a850-48b5-877f-93099c61f139)
